@@ -1,3 +1,3 @@
 # MetNum-Interpolacao
-Trabalho 2 de metodos numericos
-[Sala de entrega](https://moodle.pucrs.br/mod/assign/view.php?id=2770603)
+Trabalho 3 de Métodos Numéricos
+[Sala de entrega]([https://moodle.pucrs.br/mod/assign/view.php?id=2770603](https://moodle.pucrs.br/mod/assign/view.php?id=2794374))
